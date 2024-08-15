@@ -1,4 +1,4 @@
-package jonkler;
+package net.pastyrat.jonkler.item;
 
 import net.minecraft.world.item.Item;
 import net.minecraftforge.registries.DeferredRegister;
