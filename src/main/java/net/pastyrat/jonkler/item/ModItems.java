@@ -6,5 +6,5 @@ import net.minecraftforge.registries.ForgeRegistries;
 
 public class mod {
     public static final DeferredRegister<Item> ITEMS =
-            DeferredRegister.create(ForgeRegistries.ITEMS, deadInternet.MOD_ID)
+            DeferredRegister.create(ForgeRegistries.ITEMS, deadinternet.MOD_ID)
 }
